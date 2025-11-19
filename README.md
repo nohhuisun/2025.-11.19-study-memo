@@ -15,4 +15,4 @@
 이모지   
 :rocket:      
 :white_check_mark:   
-:bu1b:     
+:bulb:     
